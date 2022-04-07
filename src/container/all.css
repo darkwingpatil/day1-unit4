@@ -1,0 +1,29 @@
+.class1{
+    background-color: blue;
+  }
+  .class2{
+    background-color: silver;
+  }
+  .class3{
+    background-color: orange;
+  }
+  .class4{
+    background-color: red;
+  }
+  .class5{
+    background-color: green;
+  }
+  .class6{
+    background-color: purple;
+  }
+  .class7{
+    background-color: plum;
+  }
+  .class8{
+    background-color: brown;
+  }
+.allclass{
+  color: white;
+  border-radius: 20px;
+  font-size: 20px;
+}

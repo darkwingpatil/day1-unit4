@@ -1,0 +1,17 @@
+.class11{
+  color: #4f46e5;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 0px;
+
+}
+.firstone{
+  display: flex;
+  gap:20px;
+  margin-top: 20px;
+}
+.secondone,.thirdone,.fourthone{
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
